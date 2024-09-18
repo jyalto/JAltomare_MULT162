@@ -90,3 +90,9 @@ DerivedDataCache/*
 
 # Starter Content
 Content/StarterContent/*
+
+# Characters
+Content/Characters/*
+
+# LevelPrototyping
+Content/LevelPrototyping/*
